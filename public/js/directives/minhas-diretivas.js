@@ -1,11 +1,9 @@
-angular.module('minhasDiretivas', [])
-	.directive('meuPainel', function() {
+angular.module('minhasDiretivas', []).directive('meuPainel', function() {
 
 		var ddo = {};
 
 		ddo.restrict = "AE";
         ddo.transclude = true;
-
 
 		ddo.scope = {
             titulo: '@'
