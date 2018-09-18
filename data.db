@@ -7,3 +7,6 @@
 {"titulo":"Leão","url":"https://segredosdomundo.r7.com/wp-content/uploads/2017/12/destaque-14-758x455.jpg","descricao":"teste2","_id":"zG1eBpZU4tIAwUyW"}
 {"$$deleted":true,"_id":"FuQwyqLSsYzHKgpX"}
 {"titulo":"Novo","url":"https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350","descricao":"Praia","grupo":2,"_id":"ws3lajHTSONjcyT5"}
+{"titulo":"Leão","url":"https://segredosdomundo.r7.com/wp-content/uploads/2017/12/destaque-14-758x455.jpg","descricao":"teste3","_id":"zG1eBpZU4tIAwUyW","grupo":3}
+{"titulo":"Novo","url":"https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350","descricao":"Praia","grupo":1,"_id":"ws3lajHTSONjcyT5"}
+{"titulo":"Novo","url":"https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350","descricao":"Praia","grupo":2,"_id":"ws3lajHTSONjcyT5"}
